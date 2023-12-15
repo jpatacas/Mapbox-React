@@ -5,8 +5,8 @@ import {getApp} from "firebase/app"
 function App() {
   return (
     <div>
-      {/* <Map /> */}
-      <div>{JSON.stringify(getApp())}</div>
+      <Map />
+      {/* <div>{JSON.stringify(getApp())}</div> */}
     </div>
   );
 }
