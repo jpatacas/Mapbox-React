@@ -2,7 +2,7 @@
 
 ## Setup
 
-Add a `mapboxapi.js` file in `src` diretory with your Mapbox API key:
+Add a `mapboxapi.js` file in `src` directory with your Mapbox API key:
 
 ```
 const mapboxApiToken = 'API_KEY';
@@ -16,5 +16,5 @@ In the project directory run:
 
 `npm run dev`
 
-Open http://localhost:5173/ to view the app in your browser
+Open http://localhost:5173/ to view the app in your browser.
 

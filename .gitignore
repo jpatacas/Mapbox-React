@@ -13,6 +13,7 @@ dist-ssr
 *.local
 
 mapboxapi.js
+config.js
 
 # Editor directories and files
 .vscode/*
